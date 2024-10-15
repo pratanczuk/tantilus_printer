@@ -1,5 +1,7 @@
 # tantilus_printer
+
 ##Tantilus 3D Printer Project
+
 ###Overview
 
 The Tantalus 3D Printer is an open-source 3D printer designed to offer a reliable, efficient, and high-quality printing experience. This project aims to provide a compact, accessible, and user-friendly 3D printing solution suitable for hobbyists, makers, and educators alike. The Tantalus 3D printer incorporates several unique design features that make it easy to build, customize, and maintain.
